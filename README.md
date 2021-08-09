@@ -2,4 +2,4 @@
 
 Language Modeling Project:
 
-Implementation - LM2 - VANILLA RNN LM
+Implementation - LM2 - LSTM
